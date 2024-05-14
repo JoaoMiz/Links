@@ -1,9 +1,55 @@
 body{
     background-color: aqua;
 }
-div{
-    background-color: blueviolet;
-}
 img{
     border-radius: 50%;
+    margin: 50px 40% 20px;
 }
+#tudo{
+    background-color: blueviolet;
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    height: 80%;
+    border-radius: 20px;
+    
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 2%;
+}
+#negrito{
+    display: block;
+    color: chartreuse;
+    text-align: center;
+    margin-bottom: 4%;
+}
+p{
+    color: cornsilk;
+    text-align: center;
+}
+a{
+    display: table;
+    margin: 0 auto;
+    padding: 3%;
+    border: solid;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    width: 70%;
+    text-align: center;
+    border-color: crimson;
+    background-color: crimson;
+    text-decoration: none;
+    color: white;
+
+
+}
+#ancora{
+    width: 100%;
+    margin: 0 auto;
+    
+
+}
+
+
